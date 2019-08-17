@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : youcef ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`AR_Team`,"http://twitch.tv/Death Shop")
+client.user.setGame(`AR Community`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
